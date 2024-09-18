@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/1Qhq3p6lc0o6c/200.gif?cid=ecf05e477owoamj4bmjfktfbn74ol9495qszgocbi2ga9rr9&rid=200.gif&ct=g" />
+<img align="right" alt="GIF" width="35%" height="35%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHo3eWZqMjQ4c2ljZjQwM2ZzdXh4NDF2eWx2d3JlcWxwMGFnaW01YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D2j3xOKq0O0qQ8BOVC/giphy.gif"/>
 
 ## About me
 
