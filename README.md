@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Byron's Linkedin" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
+<a href="https://kegar3.github.io/byron-paniperis/">
+  <img align="left" alt="Byron's Portfolio" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</a>
+
 <br />
 <br />
 
