@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://kegar3.github.io/byron-paniperis/">
-  <img align="left" alt="Byron's Portfolio" width="24px" src="https://icongr.am/devicon/wordpress-plain.svg?size=148&color=ffffff" />
+  <img align="left" alt="Byron's Portfolio" width="24px" src="https://icongr.am/fontawesome/address-card.svg?size=148&color=ffffff" />
 </a>
 
 <br />
